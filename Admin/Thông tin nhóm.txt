@@ -1,0 +1,7 @@
+
+Tài khoản trong hệ thống :
+Full quyền : admin - 123456
+Nhân viên nhập : chinh - 123456
+Nhân viên xuất: sinh - 123456
+
+
